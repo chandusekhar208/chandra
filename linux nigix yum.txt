@@ -1,0 +1,5 @@
+#!/bin/bash
+yum update -y
+yum install nginx -y
+echo "<h1>webserver-3</h1>" >> "/usr/share/nginx/html/index.html"
+service nginx start
