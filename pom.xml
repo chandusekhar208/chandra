@@ -4,7 +4,7 @@
 
     <groupId>com.google.in</groupId>
     <artifactId>google.com</artifactId>
-    <version>google</version>
+    <version>google.in</version>
     <packaging>war</packaging>
 
     <name>MVC 1.0 Blank Project (from https://github.com/making/mvc-1.0-blank)</name>
